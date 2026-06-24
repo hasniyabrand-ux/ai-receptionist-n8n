@@ -1,2 +1,43 @@
-# ai-receptionist-n8n
-AI Receptionist built with n8n, OpenAI GPT-4o Mini and Supabase. Automatically chats with website visitors, remembers conversations, captures leads, and qualifies prospects.
+# AI Receptionist
+
+An AI-powered receptionist built with n8n, OpenAI GPT and Supabase.
+
+## Features
+
+- Website Chat Widget
+- Session Memory
+- Lead Capture
+- Contact Extraction
+- Conversation History
+- AI-Powered Responses
+- Supabase Integration
+- Lead Qualification
+
+## Workflow
+
+Visitor → Chat Widget → n8n → OpenAI → Supabase → AI Response
+
+## Tech Stack
+
+- n8n
+- OpenAI
+- Supabase
+- PostgreSQL
+
+## Use Cases
+
+- Coaches
+- Consultants
+- Agencies
+- Freelancers
+
+## Future Updates
+
+- WhatsApp Integration
+- Appointment Booking
+- CRM Integration
+- Lead Scoring
+
+## Author
+
+Hasniya Brand UX
